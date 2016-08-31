@@ -1,0 +1,15 @@
+{
+  "name": "irc-support-bot-validate",
+  "version": "1.0.0",
+  "description": "Code validation module for irc-support-bot",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Colin Aarts <hello@colinaarts.com> (http://colinaarts.com)",
+  "license": "UNLICENSE",
+  "private": true,
+  "dependencies": {
+    "w3c-css": "^2.0.0"
+  }
+}
